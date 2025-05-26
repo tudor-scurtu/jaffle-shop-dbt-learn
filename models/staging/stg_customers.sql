@@ -1,4 +1,5 @@
 -- i sure hope this comment won't cause a merge conflict
+-- this comment will force a merge conflict
 with
 
 source as (
