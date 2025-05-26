@@ -1,4 +1,4 @@
--- comment
+-- i sure hope this comment won't cause a merge conflict
 with
 
 source as (
