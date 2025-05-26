@@ -1,4 +1,4 @@
--- comment
+-- this comment will force a merge conflict
 with
 
 source as (
