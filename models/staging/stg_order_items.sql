@@ -16,6 +16,7 @@ renamed as (
         sku as product_id
 
     from source
+    where order_id is not null
 
 )
 
